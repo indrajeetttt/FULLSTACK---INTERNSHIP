@@ -3,10 +3,6 @@
 
 This repository is for learning Git and GitHub.
 
-## Technologies
+## Login Feature
 
-- HTML
-- CSS
-- JavaScript
-- React
-- Node.js
+Login functionality will be added here.
